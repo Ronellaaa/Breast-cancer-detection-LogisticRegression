@@ -17,8 +17,7 @@ The model is built using **Python**, **Google Colab**, and **Scikit-Learn**.
 
 ## What the Notebook Includes
 - Loading and cleaning the dataset  
-- Splitting data into training and testing sets  
-- Scaling features  
+- Splitting data into training and testing sets   
 - Training a Logistic Regression model  
 - Making predictions  
 - Evaluating accuracy and confusion matrix  
